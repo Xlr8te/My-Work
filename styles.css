@@ -1,0 +1,41 @@
+.title {
+    text-align: center;
+}
+
+div {
+    color: white;
+    text-align: center;
+    background-color: #613200;
+}
+
+body {
+    background-color: #fffdd0;
+}
+
+.title {
+    color: #613200;
+}
+
+iframe {
+    width: 500px;
+    height: 315px;
+}
+
+.center {
+    background-color: #fffdd0;
+}
+
+img {
+    width: 700px;
+    border-width: 500px;
+    border-color: brown;
+    padding: 30px;
+    margin: 30px;
+}
+
+.para {
+    text-align: center;
+    background-color: #fffdd0;
+    color: black;
+   
+}
